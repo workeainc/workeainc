@@ -72,7 +72,7 @@ Web product development and experimentation.
 </td>
 <td width="50%">
 
-### [Sports Betting Bot](https://github.com/workeainc/Sports-Betting-Bot-)
+### [Sports Betting Bot](https://github.com/workeainc/sports-betting-bot)
 Python automation and data workflows.
 
 `Python` `Automation` `Data`
