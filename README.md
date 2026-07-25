@@ -1,6 +1,6 @@
 <div align="center">
 
-# EA Soft Lab
+# Hi, we're EA Soft Lab 👋
 
 ### Product engineering · Automation · Data-driven software
 
@@ -8,39 +8,48 @@
 <a href="https://www.easoftlab.com"><img src="https://img.shields.io/badge/Website-easoftlab.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://t.me/emranulhsn"><img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
-Building practical software for businesses, teams, and the open web from **Dhaka, Bangladesh**.
+**EA Soft Lab** is an engineering team from **Dhaka, Bangladesh**, building practical software for businesses, teams, and the open web.
 
 </div>
 
-## About EA Soft Lab
+## 💡 About us
 
-EA Soft Lab is the engineering team behind business platforms, automation tools, web products, and data-driven experiments. We focus on turning real operational problems into maintainable software that teams can use every day.
+We turn real operational problems into maintainable products: business platforms, automation tools, web experiences, mobile applications, and data-driven experiments.
 
-## Technology
+Our public work is organized around three ideas:
+
+- Build software that solves a real problem.
+- Make systems understandable, testable, and maintainable.
+- Share useful fixes and learn in public through open source.
+
+## 🛠 Skills & tools
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## What I build
+## 🌟 Open-source contributions
 
-| Area | Typical work |
+We are building a consistent contribution practice: find a real issue, understand the project’s rules, make a focused fix, test it, and work respectfully with maintainers.
+
+| Contribution | Status |
 | --- | --- |
-| **Business systems** | Operations, CRM, finance, transport, and internal platforms |
-| **Automation** | Data workflows, API integrations, browser tools, and repeatable processes |
-| **Web products** | Full-stack applications, marketing sites, dashboards, and product experiences |
-| **Mobile and cross-platform** | Practical applications built for real-world teams |
-| **Data and experimentation** | Research tools, analytics, and explainable product decisions |
+| [Show exact saved date on hover](https://github.com/ritsth/job-autofill-extension/pull/137) | Open for maintainer review |
+| [Issue #136](https://github.com/ritsth/job-autofill-extension/issues/136) | Resolved by the PR above |
+| Next contributions | Focused fixes with tests and documentation |
 
-## Featured work
+> We value merged, useful contributions over large numbers of low-quality changes.
+
+## 📌 Selected projects
 
 <table>
 <tr>
@@ -65,15 +74,33 @@ Company website and product identity.
 <td width="50%">
 
 ### [Lula Platform](https://github.com/workeainc/lula-platform)
-Web product development and experimentation.
+Application, backend, shared packages, and deployment workspace.
 
-`JavaScript` `Platform` `Product`
+`JavaScript` `Node.js` `Monorepo`
+
+</td>
+<td width="50%">
+
+### [Versatile](https://github.com/workeainc/versatile)
+Next.js experience for services, content, SEO, and consultation flows.
+
+`TypeScript` `Next.js` `SEO`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Fashion-Afrique](https://github.com/workeainc/Fashion-Afrique)
+Full-stack fashion commerce platform in active development.
+
+`TypeScript` `API` `E-commerce`
 
 </td>
 <td width="50%">
 
 ### [Sports Betting Bot](https://github.com/workeainc/sports-betting-bot)
-Python automation and data workflows.
+Python automation and data workflow project.
 
 `Python` `Automation` `Data`
 
@@ -81,7 +108,7 @@ Python automation and data workflows.
 </tr>
 </table>
 
-## GitHub activity
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -94,18 +121,13 @@ Python automation and data workflows.
 
 </div>
 
-## Engineering principles
+## 🎯 Current focus
 
-- **Useful before flashy:** solve a real problem before adding complexity.
-- **Explainable by default:** make behavior, trade-offs, and decisions clear.
-- **Built to last:** value documentation, tests, maintainability, and clean handoffs.
-- **Open to collaboration:** contribute fixes that help real users and developers.
+- Improve project documentation and repository discoverability.
+- Build a steady record of useful open-source contributions.
+- Ship maintainable business software with clear engineering decisions.
 
-## Current focus
-
-Improving product quality, strengthening open-source practices, and contributing useful fixes to projects where the work can help other developers.
-
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
